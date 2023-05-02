@@ -6,7 +6,7 @@ Testing some features of OrangeHRM Web
 
 How to run test :
 1. Make sure all files are collected in 1 folder
-2. Run the test by opening a terminal and typing python runTest.py
+2. Run the test by opening a terminal and type python runTest.py
 3. Wait process running until the end
 
 
