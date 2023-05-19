@@ -1,5 +1,6 @@
 # test-selenium-orangehrm
 Testing some features of OrangeHRM Web
+- Test Case : https://docs.google.com/spreadsheets/d/1fmj_A6LCzXJTGsCwJ1ZXmBmu68wa8n8zSOJAIf76qs4/edit?usp=sharing
 
 1. Login & Logout
 2. Menu Admin - Job Title
